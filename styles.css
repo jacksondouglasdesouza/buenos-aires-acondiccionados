@@ -260,6 +260,7 @@ button:hover{
 
 
 footer{
+    position: relative;
     background-color: #EFB316;
     width: 100%;
 }
@@ -288,6 +289,14 @@ footer a{
     font-family: 'Fira Sans', sans-serif;
     letter-spacing: 0.03em;
     margin-top: 5px;
+}
+
+.whatsapp-business{
+    position: fixed;
+    bottom: 15px;
+    right: 13px;
+    width: 80px;
+    height: 80px;
 }
 
 
@@ -504,6 +513,14 @@ footer p{
 footer a{
     color: #ffffff;
     font-size: 0.9rem;
+}
+
+.whatsapp-business{
+    position: fixed;
+    bottom: 20px;
+    right: 13px;
+    width: 80px;
+    height: 80px;
 }
 
 }
@@ -725,6 +742,14 @@ footer p{
 footer a{
     color: #ffffff;
     font-size: 0.9rem;
+}
+
+.whatsapp-business{
+    position: fixed;
+    bottom: 20px;
+    right: 13px;
+    width: 60px;
+    height: 60px;
 }
 
 }
